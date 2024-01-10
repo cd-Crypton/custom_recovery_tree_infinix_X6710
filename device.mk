@@ -71,4 +71,4 @@ PRODUCT_SHIPPING_API_LEVEL := 31
 
 # Virtual A/B
 ENABLE_VIRTUAL_AB := true
-$(call inherit-product, $(SRC_TARGET_DIR)/product/virtual_ab_ota/virtual_ab_ota/compression.mk)
+$(call inherit-product, $(SRC_TARGET_DIR)/product/virtual_ab_ota/compression.mk)
